@@ -8,8 +8,6 @@ SOURCEDIR     = source
 # 
 # Die Module von welchen kopiert werden soll müssen vorher eingehängt werden.
 # z.B.
-# git submodule add -f git@32840.bfs-kaelte-klima.de:scripte-de/modul-2-wien.git copyfrom/modul-2-wien
-# die folgende Zeile muss dann angepasst werden xxx -> copyfrom/modul-2-wien
 #
 COPYFROM      = copyfrom/xxx
 COPYFROM2     = copyfrom
